@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "name": "ALIENS",
+    "price": 2000,
+    "imageUrl": "./images/aliens.png"
+  },
+  {
+    "id": 2,
+    "name": "BANANAS",
+    "price": 2000,
+    "imageUrl": "./images/bananas.jpg"
+  },
+  {
+    "id": 3,
+    "name": "CALAVERAS",
+    "price": 2000,
+    "imageUrl": "./images/calaveras.png"
+  },
+  {
+    "id": 4,
+    "name": "CARICUADROS",
+    "price": 2000,
+    "imageUrl": "./images/cuadros.png"
+  },
+  {
+    "id": 5,
+    "name": "CUADRITOS",
+    "price": 2000,
+    "imageUrl": "./images/cuadros2.jpg"
+  },
+  {
+    "id": 6,
+    "name": "HONGOS-MARIO",
+    "price": 2000,
+    "imageUrl": "./images/hongos.jpg"
+  },
+  {
+    "id": 7,
+    "name": "IT",
+    "price": 2000,
+    "imageUrl": "./images/IT.png"
+  },
+  {
+    "id": 8,
+    "name": "MAESTRO-DB",
+    "price": 2000,
+    "imageUrl": "./images/maestro.png"
+  },
+  {
+    "id": 9,
+    "name": "OREOS",
+    "price": 2000,
+    "imageUrl": "./images/oreo.png"
+  },
+  {
+    "id": 10,
+    "name": "RAYOS",
+    "price": 2000,
+    "imageUrl": "./images/rayos.png"
+  },
+  {
+    "id": 11,
+    "name": "SCARER",
+    "price": 2000,
+    "imageUrl": "./images/Scarer.png"
+  },
+  {
+    "id": 12,
+    "name": "TORTUGAS",
+    "price": 2000,
+    "imageUrl": "./images/tortugas.png"
+  },
+  {
+    "id": 13,
+    "name": "Media 3",
+    "price": 2000,
+    "imageUrl": "./images/caritas.png"
+  },
+  {
+    "id": 14,
+    "name": "Media 3",
+    "price": 2000,
+    "imageUrl": "./images/caritas.png"
+  },
+  {
+    "id": 15,
+    "name": "Media 3",
+    "price": 2000,
+    "imageUrl": "./images/caritas.png"
+  },
+  {
+    "id": 16,
+    "name": "Media 3",
+    "price": 2000,
+    "imageUrl": "./images/caritas.png"
+  },
+  {
+    "id": 17,
+    "name": "Media 3",
+    "price": 2000,
+    "imageUrl": "./images/caritas.png"
+  },
+  {
+    "id": 18,
+    "name": "Media 3",
+    "price": 12.75,
+    "imageUrl": "./images/caritas.png"
+  },
+  {
+    "id": 19,
+    "name": "Media 3",
+    "price": 12.75,
+    "imageUrl": "./images/caritas.png"
+  },
+  {
+    "id": 20,
+    "name": "Media 3",
+    "price": 12.75,
+    "imageUrl": "./images/caritas.png"
+  },
+  {
+    "id": 21,
+    "name": "Media 3",
+    "price": 12.75,
+    "imageUrl": "./images/caritas.png"
+  },
+  {
+    "id": 22,
+    "name": "Media 3",
+    "price": 12.75,
+    "imageUrl": "./images/caritas.png"
+  },
+  {
+    "id": 23,
+    "name": "Media 3",
+    "price": 12.75,
+    "imageUrl": "./images/caritas.png"
+  },
+  {
+    "id": 24,
+    "name": "Media 3",
+    "price": 12.75,
+    "imageUrl": "./images/caritas.png"
+  },
+  {
+    "id": 24,
+    "name": "Media 3",
+    "price": 12.75,
+    "imageUrl": "./images/caritas.png"
+  }
+]
